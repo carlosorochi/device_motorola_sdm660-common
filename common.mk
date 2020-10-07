@@ -387,7 +387,7 @@ PRODUCT_PACKAGES += \
 
 # Thermal
 PRODUCT_PACKAGES += \
-    android.hardware.thermal@1.1-service.sdm660
+    android.hardware.thermal@2.0-service.qti
 
 # Touchscreen
 PRODUCT_PACKAGES += \
